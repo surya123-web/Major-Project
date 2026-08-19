@@ -26,3 +26,8 @@ Power Supply Unit
 All peripherals (LCD, Keypad, UART, EEPROM, I2C, RTC) are initialized
 Project title is displayed on LCD
 The system reads the current date and time from the RTC to ensure that the clock is functioning properly,as shown in the image below
+
+
+🔹 Idle State
+
+The system remains idle, continuously waiting for a voter’s RFID card and displays ‘Waiting for Card…’ on the LCD. 

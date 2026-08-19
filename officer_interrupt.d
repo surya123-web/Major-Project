@@ -1,0 +1,9 @@
+.\officer_interrupt.o: officer_interrupt.c
+.\officer_interrupt.o: D:\ARM\Inc\Philips\lpc21xx.h
+.\officer_interrupt.o: officer_interrupt.h
+.\officer_interrupt.o: kpm.h
+.\officer_interrupt.o: lcd_defines.h
+.\officer_interrupt.o: i2c_defines.h
+.\officer_interrupt.o: i2c__eeprom.h
+.\officer_interrupt.o: lcd.h
+.\officer_interrupt.o: delay.h

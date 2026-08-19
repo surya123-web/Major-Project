@@ -1,0 +1,14 @@
+.\main.o: main.c
+.\main.o: lcd_defines.h
+.\main.o: lcd.h
+.\main.o: delay.h
+.\main.o: rtc.h
+.\main.o: voting.h
+.\main.o: i2c__eeprom.h
+.\main.o: i2c.h
+.\main.o: i2c_defines.h
+.\main.o: kpm.h
+.\main.o: LED_BUZZER.h
+.\main.o: D:\ARM\Inc\Philips\lpc21xx.h
+.\main.o: uart.h
+.\main.o: officer_interrupt.h

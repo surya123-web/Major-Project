@@ -40,6 +40,12 @@ The system remains idle, continuously waiting for a voter’s RFID card and disp
 
 <img width="1500" height="1125" alt="553220194-09a82baa-6bd9-4ae3-b5c2-5c8207fa811c" src="https://github.com/user-attachments/assets/66d23764-4499-498e-a7ff-e6e8cd1ccef3" />
 
+<img width="1938" height="1065" alt="553223039-b303b25c-71ea-47ac-b0b3-6747f088c78b" src="https://github.com/user-attachments/assets/09cae9b7-4b0b-4569-a090-82f348eb8308" />
+<img width="1500" height="1125" alt="555512283-a00b2f0f-320a-4df8-b398-f556708abaaf" src="https://github.com/user-attachments/assets/36441e47-aea9-464a-bd85-627d05517543" />
+<img width="2044" height="1170" alt="553224273-11809f94-3051-4b24-8cfe-bfceff65b073" src="https://github.com/user-attachments/assets/551339c4-84cf-4069-8c11-ad71e00952d9" />
+<img width="2048" height="1168" alt="553223815-8b481f69-28ae-485c-a159-6760c3e84de7" src="https://github.com/user-attachments/assets/9e650d30-7696-4061-967d-efbfc1e0c463" />
+<img width="2527" height="1168" alt="553222500-869b65e2-9bfb-45e9-bba0-6510c87fd8a2" src="https://github.com/user-attachments/assets/a778c5c4-965b-4614-bbda-00f333c69f34" />
+
 <img width="1943" height="1170" alt="555497862-92c747c9-2964-4a7e-aa31-f1a672a08b62" src="https://github.com/user-attachments/assets/99a78248-1e62-4e0f-adeb-8e61a5f5d34d" />
 
 

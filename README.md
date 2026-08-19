@@ -31,3 +31,5 @@ The system reads the current date and time from the RTC to ensure that the clock
 🔹 Idle State
 
 The system remains idle, continuously waiting for a voter’s RFID card and displays ‘Waiting for Card…’ on the LCD. 
+
+"C:\Users\surya\Downloads\ChatGPT Image12 Aug 19, 2026, 12_15_31 PM.png"

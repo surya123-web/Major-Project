@@ -34,3 +34,10 @@ The system remains idle, continuously waiting for a voter’s RFID card and disp
 
 <img width="1536" height="1024" alt="ChatGPT Image12 Aug 19, 2026, 12_15_31 PM" src="https://github.com/user-attachments/assets/9cb0980b-a420-4f22-b577-e70e232e6873" />
 
+
+
+<img width="2004" height="1170" alt="553219202-8bae88e4-bb1f-4cd0-9ea3-6fc5a4517e41" src="https://github.com/user-attachments/assets/a7bc7e06-e8d6-483b-ac81-2194c605cc14" />
+
+<img width="1500" height="1125" alt="553220194-09a82baa-6bd9-4ae3-b5c2-5c8207fa811c" src="https://github.com/user-attachments/assets/66d23764-4499-498e-a7ff-e6e8cd1ccef3" />
+
+

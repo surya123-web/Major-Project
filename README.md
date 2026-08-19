@@ -40,4 +40,6 @@ The system remains idle, continuously waiting for a voter’s RFID card and disp
 
 <img width="1500" height="1125" alt="553220194-09a82baa-6bd9-4ae3-b5c2-5c8207fa811c" src="https://github.com/user-attachments/assets/66d23764-4499-498e-a7ff-e6e8cd1ccef3" />
 
+<img width="1943" height="1170" alt="555497862-92c747c9-2964-4a7e-aa31-f1a672a08b62" src="https://github.com/user-attachments/assets/99a78248-1e62-4e0f-adeb-8e61a5f5d34d" />
+
 

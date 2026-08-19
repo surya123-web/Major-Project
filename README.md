@@ -26,4 +26,3 @@ Power Supply Unit
 All peripherals (LCD, Keypad, UART, EEPROM, I2C, RTC) are initialized
 Project title is displayed on LCD
 The system reads the current date and time from the RTC to ensure that the clock is functioning properly,as shown in the image below
-"C:\Users\surya\Downloads\ChatGPT Image12 Aug 19, 2026, 12_15_31 PM.png"

@@ -1,2 +1,3 @@
 # Major-Project
 INTELLIVOTE: AN RFID-BASED SMART ELECTRONIC  VOTING SYSTEM
+![Uploading image.png…]()
